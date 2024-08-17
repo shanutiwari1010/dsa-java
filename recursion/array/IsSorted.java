@@ -2,7 +2,7 @@ package recursion.array;
 
 public class IsSorted {
     public static void main(String[] args) {
-        int arr[] = {1,2,9,4,5};
+        int arr[] = {1,2,4,4,5,99};
         System.out.println( isSorted(arr,0));
     }
     public static boolean isSorted(int arr[], int idx){
