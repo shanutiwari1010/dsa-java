@@ -1,4 +1,4 @@
-package recursion;
+package recursion.array;
 
 public class ReverseArray {
     public static void main(String[] args) {
